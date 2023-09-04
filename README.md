@@ -22,4 +22,4 @@ Se você tiver alguma pergunta ou desejar discutir este projeto em mais detalhes
 
 - **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
-Ficaremos felizes em compartilhar mais informações e colaborar em projetos futuros. Obrigado por explorar nossa análise de atrito de funcionários na organização de marketing.
+Ficaremos felizes em compartilhar mais informações e colaborar em projetos futuros. 
