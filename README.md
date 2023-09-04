@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto tem como objetivo analisar o atrito de funcionários na organização de marketing da empresa, identificar razões-chave para a saída de funcionários e fornecer recomendações para melhorar a retenção e a satisfação dos colaboradores.
+Este projeto tem como objetivo analisar o motivo de saída dos funcionários sa empresa, identificar razões-chave para a saída de funcionários e fornecer recomendações para melhorar a retenção e a satisfação dos colaboradores.
 
 ## Tecnologias Utilizadas
 
