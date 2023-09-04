@@ -18,8 +18,8 @@ Este projeto tem como objetivo analisar o atrito de funcionários na organizaç�
 
 Se você tiver alguma pergunta ou desejar discutir este projeto em mais detalhes, não hesite em entrar em contato:
 
-- **E-mail:** [Seu Endereço de E-mail](mailto:seu@email.com)
+- **E-mail:** [Seu Endereço de E-mail](marcosretondardigital@gmail.com)
 
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/marcos-retondar/)
 
-Ficaremos felizes em compartilhar mais informações e colaborar em projetos futuros. Obrigado por explorar nossa análise de atrito de funcionários na organização de marketing.
+Ficaremos felizes em compartilhar mais informações e colaborar em projetos futuros. 
