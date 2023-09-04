@@ -21,5 +21,3 @@ Se você tiver alguma pergunta ou desejar discutir este projeto em mais detalhes
 - **E-mail:** [Seu Endereço de E-mail](marcosretondardigital@gmail.com)
 
 - **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/marcos-retondar/)
-
-Ficaremos felizes em compartilhar mais informações e colaborar em projetos futuros. 
