@@ -18,7 +18,6 @@ Este projeto tem como objetivo analisar o motivo de saída dos funcionários sa 
 
 Se você tiver alguma pergunta ou desejar discutir este projeto em mais detalhes, não hesite em entrar em contato:
 
-- **E-mail:** [Meu Endereço de E-mail](marcosretondardigital@gmail.com)
 
 - **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marcos-retondar/)
 
